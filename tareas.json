@@ -1,0 +1,30 @@
+[
+ {
+  "titulo": "Repasar JS",
+  "estado": "terminada"
+ },
+ {
+  "titulo": "Armar aplicación de Tareas",
+  "estado": "en progreso"
+ },
+ {
+  "titulo": "Break",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "vender auto",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "realizar la tarea de la pc",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "lavar el auto",
+  "estado": "pendiente"
+ },
+ {
+  "titulo": "tomar mate toda la tarde",
+  "estado": "pendiente"
+ }
+]
